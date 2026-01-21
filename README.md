@@ -11,4 +11,4 @@ This project is a simple Flask web application created as part of Activity 3 in 
 2. Make sure **Flask** is installed in the Python interpreter.
 3. Run the `app.py` file.
 4. Open a web browser and go to **http://127.0.0.1:5000**.
-5. The message **“Hello World + Jharlyn Mae Secuya”** should appear on the page.
+5. The message **“Hello World Jharlyn Mae Secuya”** should appear on the page.
